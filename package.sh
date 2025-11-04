@@ -1,0 +1,1 @@
+Systemctl status application.service
